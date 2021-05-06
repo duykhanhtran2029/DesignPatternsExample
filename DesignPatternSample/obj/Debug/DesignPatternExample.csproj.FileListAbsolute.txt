@@ -1,0 +1,7 @@
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\bin\Debug\DesignPatternSample.exe.config
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\bin\Debug\DesignPatternSample.exe
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\bin\Debug\DesignPatternSample.pdb
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\obj\Debug\DesignPatternExample.csproj.CoreCompileInputs.cache
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\obj\Debug\DesignPatternSample.exe
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\obj\Debug\DesignPatternSample.pdb
+E:\CODE\CSharp\DesignPatternSample\DesignPatternSample\obj\Debug\DesignPatternExample.csprojAssemblyReference.cache
